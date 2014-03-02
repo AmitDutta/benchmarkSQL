@@ -3,6 +3,7 @@
 # Package Files #
 *.war
 *.ear
+*.txt
 target
 benchmark-results
 
